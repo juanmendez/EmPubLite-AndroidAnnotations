@@ -26,7 +26,9 @@ Listing of Dependency Injections
 
 
 Additional files made for this version:<br/>
-src\com\commonsware\empublite\DownloadPrefs.java (This file states members of Application's shared preferences)<br/>
-res\layout\simplecontent.xml (Required for \src\com\commonsware\empublite\NoteActivity.java and \src\com\commonsware\empublite\SimpleContentActivity.java in order to apply @FragmentById)<br/>
+<ul>
+<li>src\com\commonsware\empublite\DownloadPrefs.java (This file states members of Application's shared preferences)</li>
+<li>res\layout\simplecontent.xml (Required for \src\com\commonsware\empublite\NoteActivity.java and \src\com\commonsware\empublite\SimpleContentActivity.java in order to apply @FragmentById)</li>
+</ul>
 
 Feel free to contact me and ask me qustions. I personally found this strategy great to learn Android Annotations.

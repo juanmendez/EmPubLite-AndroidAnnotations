@@ -6,7 +6,7 @@ This demo recreates the EmPubLite app made by Common's Guy at <a href="https://g
 The main purpose of this update is to use <a href="http://androidannotations.org/" target="_blank">Android Annotations</a> which is a Dependency Injection framework.
 In this way, we can compare how Android Annotations works by going over the original app.
 
-Listing of Dependency Injections
+Listing of Dependency Injections which were used
 
 <ul>
 <li><a href="https://github.com/excilys/androidannotations/wiki/Enhance%20Activities" target="_blank">Activities</a></li>
@@ -31,4 +31,4 @@ Additional files made for this version:<br/>
 <li>res\layout\simplecontent.xml (Required for \src\com\commonsware\empublite\NoteActivity.java and \src\com\commonsware\empublite\SimpleContentActivity.java in order to apply @FragmentById)</li>
 </ul>
 
-Feel free to contact me and ask me qustions. I personally found this strategy great to learn Android Annotations.
+Feel free to contact me and ask me qustions. I personally found this strategy great to learn Android Annotations. <a href="http://juanmendez.info/android-annotations-demo/" target="_blank">Here is more of what I had to go through</a>.
